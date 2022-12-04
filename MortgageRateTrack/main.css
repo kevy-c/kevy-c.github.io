@@ -1,0 +1,301 @@
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+img {
+    background-color: #1f6f8b;
+    color: #ffffff;
+  }
+.highlight{
+      background-color: #1f6f8b;
+      color: #ffffff;
+  }
+.title{
+    background-color: #1f6f8b;
+    color: #99a8b2;
+    font-size: 95px;
+}
+.page_title{
+    background-color: #1f6f8b;
+    color: #ffffff;
+    font-size: 50px;
+}
+.bath_image{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #1f6f8b;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+.topnav {
+    overflow: hidden;
+    background-color: #99a8b2;
+  }
+
+#navbar {
+  background-color: #99a8b2;
+}
+
+  
+  /* Style the links inside the navigation bar */
+  .navbar a {
+    float: left;
+    display: block;
+    color: #1f6f8b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .navbar a:hover {
+    color: black;
+  }
+  
+  /* Style the "active" element to highlight the current page */
+  .navbar a.active {
+    color: black;
+  }
+  
+  /* Style the search box inside the navigation bar */
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
+
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+  }
+
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  /* Clear floats */
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  /* Table Styling*/
+
+  table { 
+    margin: 0 auto; 
+    font-size: large; 
+    border: 1px solid black; 
+    border-collapse: collapse;  
+} 
+
+  thead {  
+  background: #1f6f8b;
+  color:#fff;
+}
+
+.scroller {
+  overflow:auto;
+  height:400px;
+}
+
+tbody{
+  overflow-y: auto;
+  height: 400px;
+}
+
+h1 { 
+    text-align: center justify; 
+    color: #1f6f8b; 
+    font-size: xx-large; 
+    font-family: 'Gill Sans',  
+        'Gill Sans MT', ' Calibri',  
+        'Trebuchet MS', 'sans-serif'; 
+} 
+
+td { 
+    border: 1px solid black; 
+} 
+
+th, 
+td { 
+    font-weight: bold; 
+    border: 1px solid black; 
+    padding: 10px; 
+    text-align: center; 
+} 
+
+td { 
+    font-weight: lighter; 
+} 
+tr:nth-child(even) {
+  background-color: #deebec;
+}
+
+/* End of table styling */
+
+
+/* Style the tab */
+.nav-justified {
+  overflow: hidden;
+  /* border: 1px solid #ccc; */
+  background-color: #1f6f8b; 
+  margin: 0 auto; 
+  /* border: 1px solid black;  */
+  /* border-collapse: collapse;   */
+} 
+
+/* Style the buttons inside the tab */
+.nav-justified button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #99a8b2;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px; 
+}
+
+/* Change background color of buttons on hover */
+.nav-justified button:hover {
+  background-color: #deebec;
+}
+
+/* Create an active/current tablink class */
+.nav-justified button.active {
+  background-color: #fff;
+  color: #1f6f8b;
+  font-weight: bolder;
+  border: 1px solid #1f6f8b;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  /* border: 1px solid #ccc; */
+  border-top: none;
+}
+
+.contact-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* Search Bar */
+#bankSearch {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+
+@media screen and (max-width:320px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+  .title{
+    font-size: 20px;
+  }
+  .nav-justified button {
+    font-size: 14px; 
+    /* transform: rotate(90deg); */
+  }
+  .nav-justified > li {
+    display: table-cell;
+  }
+  .nav-justified > li > a  {
+    border-bottom: 1px solid #ddd !important;
+    border-radius: 4px 4px 0 0 !important;
+    margin-bottom: 0 !important;
+  }
+} 
+
+@media screen and (min-width:320px) and (max-width:640px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+  .title{
+    font-size: 30px;
+  }
+  .nav-justified button {
+    font-size: 15px; 
+    /* transform: rotate(90deg); */
+  } 
+  .nav-justified > li {
+    display: table-cell;
+  }
+  .nav-justified > li > a  {
+    border-bottom: 1px solid #ddd !important;
+    border-radius: 4px 4px 0 0 !important;
+    margin-bottom: 0 !important;
+  }
+} 
+
+@media screen and (min-width:641px) and (max-width:1080px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 6px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+  .title{
+    font-size: 45px;
+  }
+  .nav-justified button {
+    font-size: 16px; 
+    /* transform: rotate(90deg); */
+  } 
+  .nav-justified > li {
+    display: table-cell;
+  }
+  .nav-justified > li > a  {
+    border-bottom: 1px solid #ddd !important;
+    border-radius: 4px 4px 0 0 !important;
+    margin-bottom: 0 !important;
+  }
+} 
