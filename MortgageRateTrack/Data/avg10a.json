@@ -9,51 +9,51 @@
     },
     {
         "bank": "Alliant CU",
-        "_7DayAverage": "4.982",
-        "_14DayAverage": "4.991",
-        "_30DayAverage": "4.996",
-        "_60DayAverage": "4.998",
-        "_365DayAverage": "3.623"
-    },
-    {
-        "bank": "Associated Bank",
-        "_7DayAverage": "5.214",
-        "_14DayAverage": "5.107",
-        "_30DayAverage": "4.967",
-        "_60DayAverage": "4.769",
-        "_365DayAverage": "3.665"
-    },
-    {
-        "bank": "Bank of America",
-        "_7DayAverage": "5.839",
-        "_14DayAverage": "6.036",
-        "_30DayAverage": "5.912",
-        "_60DayAverage": "5.567",
-        "_365DayAverage": "3.923"
-    },
-    {
-        "bank": "Bank5",
         "_7DayAverage": "5.625",
         "_14DayAverage": "5.625",
         "_30DayAverage": "5.625",
-        "_60DayAverage": "5.625",
-        "_365DayAverage": "3.978"
+        "_60DayAverage": "5.602",
+        "_365DayAverage": "4.230"
+    },
+    {
+        "bank": "Associated Bank",
+        "_7DayAverage": "5.929",
+        "_14DayAverage": "5.893",
+        "_30DayAverage": "5.875",
+        "_60DayAverage": "5.827",
+        "_365DayAverage": "4.265"
+    },
+    {
+        "bank": "Bank of America",
+        "_7DayAverage": "5.964",
+        "_14DayAverage": "6.027",
+        "_30DayAverage": "6.104",
+        "_60DayAverage": "6.204",
+        "_365DayAverage": "4.715"
+    },
+    {
+        "bank": "Bank5",
+        "_7DayAverage": "6.750",
+        "_14DayAverage": "6.768",
+        "_30DayAverage": "6.825",
+        "_60DayAverage": "6.812",
+        "_365DayAverage": "4.830"
     },
     {
         "bank": "First Tech Federal",
-        "_7DayAverage": "5.375",
-        "_14DayAverage": "5.304",
-        "_30DayAverage": "5.188",
-        "_60DayAverage": "4.923",
-        "_365DayAverage": "3.748"
+        "_7DayAverage": "5.589",
+        "_14DayAverage": "5.607",
+        "_30DayAverage": "5.754",
+        "_60DayAverage": "5.958",
+        "_365DayAverage": "4.392"
     },
     {
         "bank": "Great Southern Bank",
-        "_7DayAverage": "5.500",
-        "_14DayAverage": "5.500",
-        "_30DayAverage": "5.500",
-        "_60DayAverage": "5.498",
-        "_365DayAverage": "3.877"
+        "_7DayAverage": "6.250",
+        "_14DayAverage": "6.250",
+        "_30DayAverage": "6.250",
+        "_60DayAverage": "6.208",
+        "_365DayAverage": "4.574"
     },
     {
         "bank": "Heartland Bank",
@@ -65,58 +65,58 @@
     },
     {
         "bank": "HSBC",
-        "_7DayAverage": "5.288",
-        "_14DayAverage": "5.155",
-        "_30DayAverage": "4.956",
-        "_60DayAverage": "4.713",
-        "_365DayAverage": "3.671"
+        "_7DayAverage": "5.400",
+        "_14DayAverage": "5.458",
+        "_30DayAverage": "5.510",
+        "_60DayAverage": "5.644",
+        "_365DayAverage": "4.277"
     },
     {
         "bank": "NYU FCU",
-        "_7DayAverage": "4.857",
-        "_14DayAverage": "4.759",
-        "_30DayAverage": "4.600",
-        "_60DayAverage": "4.554",
-        "_365DayAverage": "4.659*"
+        "_7DayAverage": "5.554",
+        "_14DayAverage": "5.589",
+        "_30DayAverage": "5.621",
+        "_60DayAverage": "5.667",
+        "_365DayAverage": "5.061*"
     },
     {
         "bank": "Union Bank",
-        "_7DayAverage": "5.250",
-        "_14DayAverage": "5.250",
-        "_30DayAverage": "5.250",
-        "_60DayAverage": "5.125",
-        "_365DayAverage": "4.239"
+        "_7DayAverage": "6.000",
+        "_14DayAverage": "6.000",
+        "_30DayAverage": "6.000",
+        "_60DayAverage": "6.000",
+        "_365DayAverage": "4.731"
     },
     {
         "bank": "United Nations Federal CU",
-        "_7DayAverage": "5.625",
-        "_14DayAverage": "5.625",
-        "_30DayAverage": "5.625",
-        "_60DayAverage": "5.625",
-        "_365DayAverage": "3.963"
+        "_7DayAverage": "7.750",
+        "_14DayAverage": "7.750",
+        "_30DayAverage": "6.971",
+        "_60DayAverage": "6.298",
+        "_365DayAverage": "4.399"
     },
     {
         "bank": "Unitus CCU",
-        "_7DayAverage": "5.236",
-        "_14DayAverage": "5.070",
-        "_30DayAverage": "4.876",
-        "_60DayAverage": "4.583",
-        "_365DayAverage": "4.015*"
+        "_7DayAverage": "6.254",
+        "_14DayAverage": "6.274",
+        "_30DayAverage": "6.269",
+        "_60DayAverage": "6.344",
+        "_365DayAverage": "4.549*"
     },
     {
         "bank": "Valley Bank",
-        "_7DayAverage": "5.571",
-        "_14DayAverage": "5.366",
-        "_30DayAverage": "5.071",
-        "_60DayAverage": "4.790",
-        "_365DayAverage": "3.810"
+        "_7DayAverage": "5.750",
+        "_14DayAverage": "5.750",
+        "_30DayAverage": "5.775",
+        "_60DayAverage": "5.921",
+        "_365DayAverage": "4.458"
     },
     {
         "bank": "Vystar CU",
-        "_7DayAverage": "5.625",
-        "_14DayAverage": "5.482",
-        "_30DayAverage": "5.233",
-        "_60DayAverage": "4.929",
-        "_365DayAverage": "3.700"
+        "_7DayAverage": "6.125",
+        "_14DayAverage": "6.125",
+        "_30DayAverage": "6.225",
+        "_60DayAverage": "6.219",
+        "_365DayAverage": "4.335"
     }
 ]

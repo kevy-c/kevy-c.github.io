@@ -1,35 +1,35 @@
 [
     {
         "bank": "Actors FCU",
-        "_7DayAverage": "3.750",
-        "_14DayAverage": "3.750",
-        "_30DayAverage": "3.692",
-        "_60DayAverage": "3.571",
-        "_365DayAverage": "2.793"
+        "_7DayAverage": "5.000",
+        "_14DayAverage": "5.000",
+        "_30DayAverage": "5.000",
+        "_60DayAverage": "4.825",
+        "_365DayAverage": "3.254"
     },
     {
         "bank": "Associated Bank",
-        "_7DayAverage": "6.071",
-        "_14DayAverage": "5.866",
-        "_30DayAverage": "5.625",
-        "_60DayAverage": "5.265",
-        "_365DayAverage": "3.812"
+        "_7DayAverage": "5.911",
+        "_14DayAverage": "6.009",
+        "_30DayAverage": "6.300",
+        "_60DayAverage": "6.446",
+        "_365DayAverage": "4.666"
     },
     {
         "bank": "Bank5",
-        "_7DayAverage": "5.661",
-        "_14DayAverage": "5.518",
-        "_30DayAverage": "5.329",
-        "_60DayAverage": "5.002",
-        "_365DayAverage": "212.941"
+        "_7DayAverage": "6.000",
+        "_14DayAverage": "6.089",
+        "_30DayAverage": "6.375",
+        "_60DayAverage": "6.412",
+        "_365DayAverage": "213.821"
     },
     {
         "bank": "Bethpage FCU",
-        "_7DayAverage": "5.000",
-        "_14DayAverage": "4.866",
-        "_30DayAverage": "4.671",
-        "_60DayAverage": "4.390",
-        "_365DayAverage": "3.157"
+        "_7DayAverage": "4.893",
+        "_14DayAverage": "4.964",
+        "_30DayAverage": "5.046",
+        "_60DayAverage": "5.242",
+        "_365DayAverage": "3.840"
     },
     {
         "bank": "CFCU",
@@ -41,34 +41,34 @@
     },
     {
         "bank": "Ent CU",
-        "_7DayAverage": "5.661",
-        "_14DayAverage": "5.508",
-        "_30DayAverage": "5.319",
-        "_60DayAverage": "4.973",
-        "_365DayAverage": "3.631"
+        "_7DayAverage": "5.607",
+        "_14DayAverage": "5.661",
+        "_30DayAverage": "5.732",
+        "_60DayAverage": "6.059",
+        "_365DayAverage": "4.437"
     },
     {
         "bank": "First Tech Federal",
-        "_7DayAverage": "6.321",
-        "_14DayAverage": "6.045",
-        "_30DayAverage": "5.713",
-        "_60DayAverage": "5.329",
-        "_365DayAverage": "4.143"
+        "_7DayAverage": "6.304",
+        "_14DayAverage": "6.393",
+        "_30DayAverage": "6.617",
+        "_60DayAverage": "6.825",
+        "_365DayAverage": "4.917"
     },
     {
         "bank": "Ozark Bank",
-        "_7DayAverage": "5.276",
-        "_14DayAverage": "5.269",
-        "_30DayAverage": "5.384",
-        "_60DayAverage": "5.175",
-        "_365DayAverage": "4.411*"
+        "_7DayAverage": "5.804",
+        "_14DayAverage": "5.875",
+        "_30DayAverage": "6.025",
+        "_60DayAverage": "6.088",
+        "_365DayAverage": "4.814*"
     },
     {
         "bank": "US Bank",
-        "_7DayAverage": "5.732",
-        "_14DayAverage": "5.508",
-        "_30DayAverage": "5.199",
-        "_60DayAverage": "4.958",
-        "_365DayAverage": "3.695"
+        "_7DayAverage": "5.500",
+        "_14DayAverage": "5.616",
+        "_30DayAverage": "5.778",
+        "_60DayAverage": "5.889",
+        "_365DayAverage": "4.467"
     }
 ]
